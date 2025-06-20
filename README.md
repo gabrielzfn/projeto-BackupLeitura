@@ -1,4 +1,4 @@
-# 📘 Diário de Leitura (Reading Journal)
+# 📘 Backup da Leitura (Reading Journal)
 
 Este é um projeto frontend desenvolvido com **React + Vite** como parte da disciplina **Desenvolvimento de Sistemas Frontend** da PUCRS. O objetivo é criar um CRUD (Create, Read, Update, Delete) de livros lidos, funcionando como um diário de leitura pessoal. A aplicação consome uma **API REST local**, permitindo:
 
